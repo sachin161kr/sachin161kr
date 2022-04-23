@@ -1,4 +1,4 @@
-# Hi there, I'm Sachin - aka [sachin161kr]👋
+# Hi there, I'm Sachin Kumar - aka [sachin161kr]👋
 
 ## I'm a Programmer, Learner, and Student!!
 
