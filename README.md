@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[![https://www.linkedin.com/in/morningstar21/](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![https://www.linkedin.com/in/morningstar21/](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![https://www.linkedin.com/in/morningstar21/](./img/linkedin-light.svg)](https://www.linkedin.com/in/morningstar21/)
+[![https://www.linkedin.com/in/morningstar21/](./img/linkedin-dark.svg)](https://www.linkedin.com/in/morningstar21/)
 &nbsp;&nbsp;
-[![https://www.instagram.com/__sachinn___/](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![https://www.instagram.com/__sachinn___/](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![https://www.instagram.com/__sachinn___/](./img/instagram-light.svg)](https://www.instagram.com/__sachinn___/)
+[![https://www.instagram.com/__sachinn___/](./img/instagram-dark.svg)](https://www.instagram.com/__sachinn___/)
 &nbsp;&nbsp;
-[![https://twitter.com/MorningStar16_](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![https://twitter.com/MorningStar16_](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![https://twitter.com/MorningStar16_](./img/twitter-light.svg)](https://twitter.com/MorningStar16_)
+[![https://twitter.com/MorningStar16_](./img/twitter-dark.svg)](https://twitter.com/MorningStar16_)
 &nbsp;&nbsp;
 
 ---
